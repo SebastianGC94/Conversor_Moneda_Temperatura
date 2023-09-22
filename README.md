@@ -23,10 +23,13 @@ Grados rankine a celsius, fahrenheit, kelvin
 
 
 ## Capturas de Pantalla
-![Captura de pantalla 1](C:\Users\sebas\eclipse-workspace\ConversorMonedaTemperatura\src\images\cap1.jpeg)
-![Captura de pantalla 2](ruta/a/imagen2.png)
-![Captura de pantalla 1](ruta/a/imagen1.png)
-![Captura de pantalla 2](ruta/a/imagen2.png)
+![Captura 1](src/images/cap1.jpeg)
+
+![Captura 2](src/images/cap2.jpeg)
+
+![Captura 3](src/images/cap3.jpeg)
+
+![Captura 4](src/images/cap4.jpeg)
 
 
 ## Cómo Ejecutar
