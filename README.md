@@ -39,7 +39,9 @@ Grados rankine a celsius, fahrenheit, kelvin
 
 ## Autor
 - Sebastián García Carmona (eSeGe)
-![Captura de pantalla 1](src/images/cap6.png)
+![Foto del autor](src/images/cap6.png)
+
+<img src="images/cap6.png" alt="Foto del auto" style="width:50px;height:50px;">
 
 ---
 
