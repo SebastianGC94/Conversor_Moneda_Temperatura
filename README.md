@@ -23,7 +23,7 @@ Grados rankine a celsius, fahrenheit, kelvin
 
 
 ## Capturas de Pantalla
-![Captura 1](images/cap1.jpeg)
+![Captura 1](src/images/cap1.jpeg)
 ![Captura 2](images/cap2.jpeg)
 ![Captura 3](images/cap3.jpeg)
 ![Captura 4](images/cap4.jpeg)
