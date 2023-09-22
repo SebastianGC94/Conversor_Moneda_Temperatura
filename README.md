@@ -39,7 +39,7 @@ Grados rankine a celsius, fahrenheit, kelvin
 
 ## Autor
 - Sebastián García Carmona (eSeGe)
-![Captura de pantalla 1](src/images/cap5.jpeg)
+![Captura de pantalla 1](src/images/cap6.jpeg)
 
 ---
 
