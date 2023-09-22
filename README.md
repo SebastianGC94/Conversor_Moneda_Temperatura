@@ -43,7 +43,7 @@ Grados rankine a celsius, fahrenheit, kelvin
   <img src="src/images/cap6.png" alt="Foto del autor" width="10%" height="10%" style="border-radius: 20px;">
 </p>
 
--- </code> -- 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![GitHub stars](https://img.shields.io/github/stars/tuusuario/turepositorio.svg)](https://github.com/tuusuario/turepositorio/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/tuusuario/turepositorio.svg)](https://github.com/tuusuario/turepositorio/network)
