@@ -22,7 +22,7 @@ Grados rankine a celsius, fahrenheit, kelvin
 
 
 
-## Capturas de Pantalla
+## Capturas
 ![Captura 1.](src/images/cap1.jpeg)                           ![Captura 2](src/images/cap2.jpeg)
 
 ![Captura 3](src/images/cap3.jpeg)                            ![Captura 4](src/images/cap4.jpeg)
@@ -30,7 +30,7 @@ Grados rankine a celsius, fahrenheit, kelvin
 
 
 
-## Cómo Ejecutar
+## ¿Cómo Ejecutar?
 - Descargue los archivos del proyecto en su ordenador o clone el repositorio.
 - Inicie su entorno de desarrollo, abra el proyecto y a continuación exportelo como archivo JAR ejecutable (Runnable JAR File).
 - Se creará un archivo ejecutable que le permitirá realizar conversiones de monedas y temperaturas.
@@ -43,8 +43,7 @@ Grados rankine a celsius, fahrenheit, kelvin
   <img src="src/images/cap6.png" alt="Foto del autor" width="10%" height="10%" style="border-radius: 20px;">
 </p>
 
-
----
+--- </code>
 
 [![GitHub stars](https://img.shields.io/github/stars/tuusuario/turepositorio.svg)](https://github.com/tuusuario/turepositorio/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/tuusuario/turepositorio.svg)](https://github.com/tuusuario/turepositorio/network)
