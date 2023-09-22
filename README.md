@@ -23,13 +23,11 @@ Grados rankine a celsius, fahrenheit, kelvin
 
 
 ## Capturas de Pantalla
-![Captura 1](src/images/cap1.jpeg)
+![Captura 1.](src/images/cap1.jpeg)                           ![Captura 2](src/images/cap2.jpeg)
 
-![Captura 2](src/images/cap2.jpeg)
+![Captura 3](src/images/cap3.jpeg)                            ![Captura 4](src/images/cap4.jpeg)
 
-![Captura 3](src/images/cap3.jpeg)
 
-![Captura 4](src/images/cap4.jpeg)
 
 
 ## Cómo Ejecutar
@@ -41,7 +39,7 @@ Grados rankine a celsius, fahrenheit, kelvin
 
 ## Autor
 - Sebastián García Carmona (eSeGe)
-![Captura de pantalla 1](ruta/a/imagen3.png)
+![Captura de pantalla 1](src/images/cap5.jpeg)
 
 ---
 
