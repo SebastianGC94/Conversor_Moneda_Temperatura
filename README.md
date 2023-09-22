@@ -24,9 +24,9 @@ Grados rankine a celsius, fahrenheit, kelvin
 
 ## Capturas de Pantalla
 ![Conversor Moneda Java](images/cap1.jpeg)
-![Conversor Moneda Java Opciones](images/cap2.jpeg)
+<!--![Conversor Moneda Java Opciones](images/cap2.jpeg)
 ![Conversor Temperatura Java](images/cap3.jpeg)
-![Conversor Temperatura Java Opciones](images/cap4.jpeg)
+![Conversor Temperatura Java Opciones](images/cap4.jpeg)-->
 
 
 ## Cómo Ejecutar
