@@ -23,10 +23,10 @@ Grados rankine a celsius, fahrenheit, kelvin
 
 
 ## Capturas de Pantalla
-![Descripción de la imagen 1](images/cap1.jpeg)
-![Captura de pantalla 2](ruta/a/imagen2.png)
-![Captura de pantalla 1](ruta/a/imagen1.png)
-![Captura de pantalla 2](ruta/a/imagen2.png)
+![Conversor Moneda Java](images/cap1.jpeg)
+![Conversor Moneda Java Opciones](images/cap2.jpeg)
+![Conversor Temperatura Java](images/cap3.jpeg)
+![Conversor Temperatura Java Opciones](images/cap4.jpeg)
 
 
 ## Cómo Ejecutar
