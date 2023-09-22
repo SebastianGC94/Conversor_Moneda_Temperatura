@@ -39,8 +39,8 @@ Grados rankine a celsius, fahrenheit, kelvin
 
 ## Autor
 - Sebastián García Carmona (eSeGe)
-<p align="center">
-  <img src="src/images/cap6.png" alt="Foto del autor" width="40%" height="30%" style="border-radius: 10;">
+<p align="center-left">
+  <img src="src/images/cap6.png" alt="Foto del autor" width="20%" height="20%" style="border-radius: 10;">
 </p>
 
 
