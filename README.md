@@ -40,7 +40,7 @@ Grados rankine a celsius, fahrenheit, kelvin
 ## Autor
 - Sebastián García Carmona (eSeGe)
 
-<img src="src/images/cap6.png" alt="Foto del autor" style="width:90px; height:70px;border-radius:20px;">
+<img src="src/images/cap6.png" alt="Foto del autor" style="width:90px; height:70px;border-radius:200px;">
 
 
 
